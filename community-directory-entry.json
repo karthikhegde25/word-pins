@@ -1,0 +1,7 @@
+{
+	"id": "word-pins",
+	"name": "Word Pins",
+	"author": "Karthik Hegde",
+	"description": "Pin words and phrases in long notes, then jump back to them anytime. Multiple pins per file, with time and delete. Works on phone and desktop.",
+	"repo": "karthikhegde25/word-pins"
+}
