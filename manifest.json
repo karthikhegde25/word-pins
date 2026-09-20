@@ -1,0 +1,10 @@
+{
+	"id": "word-pins",
+	"name": "Word Pins",
+	"version": "1.1.6",
+	"minAppVersion": "1.4.0",
+	"description": "Pin words and phrases in long notes, then jump back to them anytime. Multiple pins per file, with time and delete. Works on phone and desktop.",
+	"author": "Karthik Hegde",
+	"authorUrl": "https://github.com/karthikhegde25",
+	"isDesktopOnly": false
+}
